@@ -7,4 +7,7 @@ Lorem
   - 1
   - 2
 - Lorem 3
+  - 1
+  - 2
+  - 3
 - Lorem 4
